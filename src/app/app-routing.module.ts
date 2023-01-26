@@ -4,6 +4,8 @@ import { MenuComponent } from './shared/menu/menu.component';
 
 const routes: Routes = [
   { path: 'menu', component: MenuComponent },
+  { path: '', component: MenuComponent },
+
 ];
 
 @NgModule({

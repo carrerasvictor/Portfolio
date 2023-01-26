@@ -1,0 +1,22 @@
+
+.footer {
+
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.redes > a > img {
+  align-items: center;
+  padding: 20px;
+  width: 30px;
+  height: 30px;
+}
+.direitos > p {
+  align-items: center;
+  color: #ffffff;
+  width: 240px;
+  height: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 15px;
+}

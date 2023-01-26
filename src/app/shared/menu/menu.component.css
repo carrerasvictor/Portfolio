@@ -1,0 +1,32 @@
+
+.footer {
+
+}
+body {
+
+
+}
+.menu {
+  display: flex;
+  align-items: center;
+  padding: 100px;
+}
+.img {
+  margin: 50px;
+  height: 550px;
+  width: 550px;
+  border-radius: 50%;
+
+}
+.texto {
+  margin: 200px;
+color: aliceblue;
+width: 380px;
+height: 158px;
+font-family: 'News Cycle';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 40px;
+
+}
