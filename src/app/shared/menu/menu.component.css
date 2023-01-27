@@ -18,8 +18,15 @@ body {
   border-radius: 50%;
 
 }
+.img-2 {
+  position: absolute;
+  bottom: 502px;
+  padding-left: 390px;
+  width: 70px;
+  height: 59px;
+}
 .texto {
-  margin: 200px;
+margin: 200px;
 color: aliceblue;
 width: 380px;
 height: 158px;
